@@ -72,3 +72,10 @@ pip install -r requirements.txt
 
 - GitHub: Səxavət Alızadə  
 - Layihə: File Translator App 📂
+
+## 📜 Lisenziya | License | Lisans | Лицензия
+
+Bu layihə [MIT Lisenziyası](./LICENSE) ilə qorunur.
+This project is licensed under the [MIT License](./LICENSE).
+Bu proje [MIT Lisansı](./LICENSE) ile lisanslanmıştır.
+Этот проект лицензирован под [MIT License](./LICENSE).
